@@ -1,0 +1,10 @@
+przykladowy
+plik
+z
+tekstem
+z
+kazdym
+zdaniem
+w
+innej
+linijce
