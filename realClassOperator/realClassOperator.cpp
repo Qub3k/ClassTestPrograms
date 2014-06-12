@@ -1,3 +1,14 @@
+/********************************************************
+
+	Program tworzacy klase przechowujaca liczby
+	rzeczywsite z przeciazonymi operatorami
+	pozwalajacym na dodawnie liczb do klasy
+	i wypisywania okreslonej ilosci elemtnow
+	ze zbioru.
+
+	Jest rowniez moteoda sluzaca sortowaniu elemtow.
+
+********************************************************/
 #include <iostream>
 #include <algorithm>
 
