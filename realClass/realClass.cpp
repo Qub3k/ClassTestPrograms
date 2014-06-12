@@ -1,3 +1,13 @@
+/******************************************************
+
+	Program tworzacy klasy przechowujaca liczby 
+	rzeczywiste z metodami pozwalajaymi na:
+	1. dodanie liczby do zbioru
+	2. posortowanie liczb
+	3. wypisanie zbioru liczb
+
+******************************************************/
+
 #include <iostream>
 #include <algorithm>
 
