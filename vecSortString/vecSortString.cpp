@@ -1,3 +1,13 @@
+/************************************************
+
+	Program sortuje ciagi tekstowe wpisane
+	przez uzytkownika w kolejnosci rosnacej
+	alfabetycznie
+
+			WPISUJ TYLKO MALE LITERY!
+
+************************************************/
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
